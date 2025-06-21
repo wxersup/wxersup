@@ -4,5 +4,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://media1.tenor.com/m/faFlnUr0aTEAAAAd/silent-hill.gif" width="500" alt="Silent Hill">
+  <img src="https://media1.tenor.com/m/crfAjBmx13MAAAAd/discord-wallpaper.gif" width="500" alt="Silent Hill">
 </p>
