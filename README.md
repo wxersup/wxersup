@@ -30,7 +30,7 @@
 
 ### 💌 How to Contact
 *"You can contact me by telegram."*  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/m/20yi1rVpMTcy)
 
 > *"It won't be a good ending..."*
 
